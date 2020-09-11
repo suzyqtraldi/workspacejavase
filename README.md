@@ -3,5 +3,5 @@ Esta workspace contem os projetos
 universidade
 decisao
 variaveis
-repeticoa
+repeticao
 Java 18
